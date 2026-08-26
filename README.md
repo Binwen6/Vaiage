@@ -1,3 +1,5 @@
+
+
 # This is a code repo for Application Track of CS194
 
 *This project has been connected to the OrcaRouter service. [Promotion link](https://www.orcarouter.ai/ref/ref_bffe8b09f34c9bb2369b)*
@@ -39,4 +41,4 @@ Vaiage is an AI-powered travel planning application designed to help users creat
 2.  **Clone the Repository**: `git clone <repository_url>`
 3.  **Install Dependencies**: `pip install -r requirements.txt`
 4.  **Configure API Keys**: You will likely need to set your API keys as environment variables or in a configuration file (details should be checked within the codebase, e.g., `.env` file usage in `agents/information_agent.py`).
-5.  **Run the Application**: `python main.py`
+5.  **Run the Application**: `python main.py` (open `http://127.0.0.1:8000` in a browser)
