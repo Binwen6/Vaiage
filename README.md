@@ -1,4 +1,4 @@
-# This is a code repo for Application Track of CS194
+# This is a code repo for 《Vaiage: A Multi-Agent Solution to Personalized Travel Planning》
 
 *This project has been connected to the OrcaRouter service. [Promotion link](https://www.orcarouter.ai/ref/ref_bffe8b09f34c9bb2369b)*
 
